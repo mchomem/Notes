@@ -9,3 +9,8 @@
 ## Note page
 
 ![Login](/Docs/Images/note-page.png)
+
+
+## Demo video
+
+![demo](/Videos/demo-app-maui-notes.mp4)
