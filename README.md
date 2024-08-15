@@ -10,7 +10,6 @@
 
 ![Login](/Docs/Images/note-page.png)
 
-
 ## Demo video
 
-![demo](/Docs/Videos/demo-app-maui-notes.mp4)
+[![Watch the video](https://img.youtube.com/vi/16JUvK_KiB0/maxresdefault.jpg)](https://www.youtube.com/watch?v=16JUvK_KiB0)
