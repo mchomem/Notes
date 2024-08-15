@@ -13,4 +13,4 @@
 
 ## Demo video
 
-![demo](/Videos/demo-app-maui-notes.mp4)
+![demo](/Docs/Videos/demo-app-maui-notes.mp4)
