@@ -13,3 +13,5 @@
 ## Demo video
 
 [![Watch the video](https://img.youtube.com/vi/16JUvK_KiB0/maxresdefault.jpg)](https://www.youtube.com/watch?v=16JUvK_KiB0)
+
+![Demo](/Docs/Gifs/demo-app-maui-notes.gif)
