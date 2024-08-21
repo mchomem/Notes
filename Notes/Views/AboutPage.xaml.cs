@@ -43,4 +43,26 @@ public partial class AboutPage : ContentPage
             await DisplayAlert("Error", $"{ex.Message}", "Ok");
         }
     }
+
+    private async void Run_Vibration(object sender, EventArgs e)
+    {
+        try
+        {
+            await Task.Run(() =>
+            {
+                Vibration.Default.Vibrate(250);
+            });
+
+            await Task.Delay(500);
+
+            await Task.Run(() =>
+            {
+                Vibration.Default.Vibrate(250);
+            });
+        }
+        catch (Exception ex)
+        {
+            await DisplayAlert("Error", $"{ex.Message}", "Ok");
+        }
+    }
 }

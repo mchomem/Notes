@@ -5,7 +5,7 @@ namespace Notes.Views;
 [QueryProperty(nameof(ItemId), nameof(ItemId))]
 public partial class NotePage : ContentPage
 {
-    private const int MaxCharacters = 500;
+    private const int MaxCharacters = 100;
 
     public NotePage()
 	{

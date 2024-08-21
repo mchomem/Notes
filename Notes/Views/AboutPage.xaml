@@ -38,5 +38,9 @@
         <Button
             Text="Flashlight"
             Clicked="Taggle_Turn_On_Off_Flashlight_Clicked" />
+
+        <Button
+            Text="Vibration"
+            Clicked="Run_Vibration" />
     </VerticalStackLayout>
 </ContentPage>
